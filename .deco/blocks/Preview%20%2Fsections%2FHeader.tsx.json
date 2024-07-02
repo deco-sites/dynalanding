@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Demo",
+        "url": "Demo"
+      }
+    ],
+    "buttons": [
+      {
+        "id": "login",
+        "href": "Login",
+        "text": "Login",
+        "outline": true
+      }
+    ]
+  }
+}
